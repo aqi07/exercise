@@ -1,0 +1,2 @@
+      invoke  active_record
+    conflict    db/migrate/20181113032351_create_tasks.rb
